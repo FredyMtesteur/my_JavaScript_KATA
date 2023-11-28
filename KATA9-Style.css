@@ -1,0 +1,38 @@
+/*Titre Formulaire*/
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    color:black
+  }
+
+/*Formatage Formulaire*/
+body {
+    background-color: #839ac9;
+}
+.Frame {
+    background-color:aliceblue;
+    width: 300px;
+    margin: auto;
+    padding-bottom: 50px;
+    height: fit-content;
+    box-shadow: 1px 1px 10px 0.15px;
+}
+input {
+    background-color:black;
+    color: aqua;
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 250px;
+    height: 40px;
+}
+
+/*Label*/
+label {
+    font-size: 1.1rem;
+    display: block;
+    padding: 30px 20px 10px 20px;
+}
